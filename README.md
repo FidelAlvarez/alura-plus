@@ -14,7 +14,7 @@ através de marcações semânticas e também como estilizar diversas sections a
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- `HTML`: As três paginas foram escritas em HTML respeitando as normas de conduta da linguagem e adotando boas práticas de organização.
+- `HTML`: A pagina inteira foi escrita em HTML respeitando as normas de conduta da linguagem e adotando boas práticas de organização.
 - `CSS`: Toda a estilização foi feita em CSS utilizando ferramentas como media queries, variáveis, flex box, display block etc...
 
 ## 📁 Acesso ao projeto
