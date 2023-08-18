@@ -1,4 +1,4 @@
-![image](https://github.com/FidelAlvarez/alura-plus/assets/104801581/c6ba13ea-48d0-4834-a034-ecd84c83530c)# Alura+
+# Alura+
 
 Esse projeto foi desenvolvido através do curso de formação Front-End da Alura
 
